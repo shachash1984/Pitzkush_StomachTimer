@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: c6bd9fef00860434f8e137ecd2394fad
+timeCreated: 1508337228
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windows Part-1-512 x 512_0
+    21300002: Windows Part-1-512 x 512_1
+    21300004: Windows Part-1-512 x 512_2
+    21300006: Windows Part-1-512 x 512_3
+    21300008: Windows Part-1-512 x 512_4
+    21300010: Windows Part-1-512 x 512_5
+    21300012: Windows Part-1-512 x 512_6
+    21300014: Windows Part-1-512 x 512_7
+    21300016: Windows Part-1-512 x 512_8
+    21300018: Windows Part-1-512 x 512_9
+    21300020: Windows Part-1-512 x 512_10
+    21300022: Windows Part-1-512 x 512_11
+    21300024: Windows Part-1-512 x 512_12
+    21300026: Windows Part-1-512 x 512_13
+    21300028: Windows Part-1-512 x 512_14
+    21300030: Windows Part-1-512 x 512_15
+    21300032: Windows Part-1-512 x 512_16
+    21300034: Windows Part-1-512 x 512_17
+    21300036: Windows Part-1-512 x 512_18
+    21300038: Windows Part-1-512 x 512_19
+    21300040: Windows Part-1-512 x 512_20
+    21300042: Windows Part-1-512 x 512_21
+    21300044: Windows Part-1-512 x 512_22
+    21300046: Windows Part-1-512 x 512_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 394
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 394
+        width: 118
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 394
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 394
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 395
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 305
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 305
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 314
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 305
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 305
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 185
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 185
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 245
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 185
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 185
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 188
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 143
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 143
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 149
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 146
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 115
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 113
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 68
+        width: 139
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-512 x 512_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 14
+        width: 139
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: e54ce77df7526a2499036d50dfcfe5df
+timeCreated: 1508340888
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button Icons-1024 x 1024_0
+    21300002: Button Icons-1024 x 1024_1
+    21300004: Button Icons-1024 x 1024_2
+    21300006: Button Icons-1024 x 1024_3
+    21300008: Button Icons-1024 x 1024_4
+    21300010: Button Icons-1024 x 1024_5
+    21300012: Button Icons-1024 x 1024_7
+    21300014: Button Icons-1024 x 1024_9
+    21300016: Button Icons-1024 x 1024_10
+    21300018: Button Icons-1024 x 1024_11
+    21300020: Button Icons-1024 x 1024_12
+    21300022: Button Icons-1024 x 1024_13
+    21300024: Button Icons-1024 x 1024_14
+    21300026: Button Icons-1024 x 1024_15
+    21300028: Button Icons-1024 x 1024_17
+    21300030: Button Icons-1024 x 1024_20
+    21300032: Button Icons-1024 x 1024_21
+    21300034: Button Icons-1024 x 1024_24
+    21300036: Button Icons-1024 x 1024_42
+    21300038: Button Icons-1024 x 1024_45
+    21300040: Button Icons-1024 x 1024_46
+    21300042: Button Icons-1024 x 1024_47
+    21300044: Button Icons-1024 x 1024_49
+    21300046: Button Icons-1024 x 1024_51
+    21300048: Button Icons-1024 x 1024_52
+    21300050: Button Icons-1024 x 1024_53
+    21300052: Button Icons-1024 x 1024_54
+    21300054: Button Icons-1024 x 1024_57
+    21300056: Button Icons-1024 x 1024_58
+    21300058: Button Icons-1024 x 1024_59
+    21300060: Button Icons-1024 x 1024_61
+    21300062: Button Icons-1024 x 1024_62
+    21300064: Button Icons-1024 x 1024_63
+    21300066: Button Icons-1024 x 1024_64
+    21300068: Button Icons-1024 x 1024_67
+    21300070: Button Icons-1024 x 1024_68
+    21300072: Button Icons-1024 x 1024_73
+    21300074: Button Icons-1024 x 1024_75
+    21300076: Button Icons-1024 x 1024_76
+    21300078: Button Icons-1024 x 1024_79
+    21300080: Button Icons-1024 x 1024_80
+    21300082: Button Icons-1024 x 1024_81
+    21300084: Button Icons-1024 x 1024_83
+    21300086: Button Icons-1024 x 1024_84
+    21300088: Button Icons-1024 x 1024_86
+    21300090: Button Icons-1024 x 1024_89
+    21300092: Button Icons-1024 x 1024_90
+    21300094: Button Icons-1024 x 1024_92
+    21300096: Button Icons-1024 x 1024_95
+    21300098: Button Icons-1024 x 1024_96
+    21300100: Button Icons-1024 x 1024_97
+    21300102: Button Icons-1024 x 1024_99
+    21300104: Button Icons-1024 x 1024_100
+    21300106: Button Icons-1024 x 1024_102
+    21300108: Button Icons-1024 x 1024_103
+    21300110: Button Icons-1024 x 1024_104
+    21300112: Button Icons-1024 x 1024_105
+    21300114: Button Icons-1024 x 1024_106
+    21300116: Button Icons-1024 x 1024_108
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 920
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 920
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 922
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 922
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 922
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 924
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 918
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 920
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_10
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 920
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 775
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 775
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 772
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 774
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 786
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 782
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 782
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 786
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_24
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 786
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 649
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 649
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 636
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_47
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 638
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_49
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 636
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_51
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 636
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_52
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 636
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 636
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_54
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 634
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 496
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 484
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 502
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 484
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_62
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 492
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_63
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 499
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_67
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 515
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_68
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 492
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_73
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 343
+        width: 25
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 346
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_76
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 351
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_79
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 346
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_80
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 346
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_81
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 346
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 350
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_84
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 346
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_86
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 346
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_89
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 208
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_90
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_92
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 197
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_95
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 201
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_96
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 194
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_97
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 197
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_99
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 205
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_100
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 195
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_102
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 204
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_103
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 52
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_104
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 52
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_105
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 52
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_106
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 52
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Button Icons-1024 x 1024_108
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 52
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

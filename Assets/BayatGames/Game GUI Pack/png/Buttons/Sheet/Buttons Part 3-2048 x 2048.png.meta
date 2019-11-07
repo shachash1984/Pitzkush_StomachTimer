@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 4ea2c1c144c682f498540f4161f2f1cf
+timeCreated: 1508496544
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buttons Part 3-2048 x 2048_0
+    21300002: Buttons Part 3-2048 x 2048_1
+    21300004: Buttons Part 3-2048 x 2048_2
+    21300006: Buttons Part 3-2048 x 2048_3
+    21300008: Buttons Part 3-2048 x 2048_4
+    21300010: Buttons Part 3-2048 x 2048_5
+    21300012: Buttons Part 3-2048 x 2048_6
+    21300014: Buttons Part 3-2048 x 2048_7
+    21300016: Buttons Part 3-2048 x 2048_8
+    21300018: Buttons Part 3-2048 x 2048_9
+    21300020: Buttons Part 3-2048 x 2048_10
+    21300022: Buttons Part 3-2048 x 2048_11
+    21300024: Buttons Part 3-2048 x 2048_12
+    21300026: Buttons Part 3-2048 x 2048_13
+    21300028: Buttons Part 3-2048 x 2048_14
+    21300030: Buttons Part 3-2048 x 2048_15
+    21300032: Buttons Part 3-2048 x 2048_16
+    21300034: Buttons Part 3-2048 x 2048_17
+    21300036: Buttons Part 3-2048 x 2048_18
+    21300038: Buttons Part 3-2048 x 2048_19
+    21300040: Buttons Part 3-2048 x 2048_20
+    21300042: Buttons Part 3-2048 x 2048_21
+    21300044: Buttons Part 3-2048 x 2048_22
+    21300046: Buttons Part 3-2048 x 2048_23
+    21300048: Buttons Part 3-2048 x 2048_24
+    21300050: Buttons Part 3-2048 x 2048_25
+    21300052: Buttons Part 3-2048 x 2048_26
+    21300054: Buttons Part 3-2048 x 2048_27
+    21300056: Buttons Part 3-2048 x 2048_28
+    21300058: Buttons Part 3-2048 x 2048_29
+    21300060: Buttons Part 3-2048 x 2048_30
+    21300062: Buttons Part 3-2048 x 2048_31
+    21300064: Buttons Part 3-2048 x 2048_32
+    21300066: Buttons Part 3-2048 x 2048_33
+    21300068: Buttons Part 3-2048 x 2048_34
+    21300070: Buttons Part 3-2048 x 2048_35
+    21300072: Buttons Part 3-2048 x 2048_36
+    21300074: Buttons Part 3-2048 x 2048_37
+    21300076: Buttons Part 3-2048 x 2048_38
+    21300078: Buttons Part 3-2048 x 2048_39
+    21300080: Buttons Part 3-2048 x 2048_40
+    21300082: Buttons Part 3-2048 x 2048_41
+    21300084: Buttons Part 3-2048 x 2048_42
+    21300086: Buttons Part 3-2048 x 2048_43
+    21300088: Buttons Part 3-2048 x 2048_44
+    21300090: Buttons Part 3-2048 x 2048_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1760
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1760
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1760
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_3
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1760
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1760
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_5
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1760
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_6
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1756
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1472
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1472
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1472
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_10
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1472
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1472
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_12
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1472
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_13
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1468
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1184
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1184
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1184
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1184
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_18
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1184
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_19
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1184
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_20
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1180
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_23
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_24
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_25
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_26
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 896
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_27
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 892
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_30
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_31
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_32
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_33
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 608
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 320
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_36
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 320
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_37
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 320
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_38
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 320
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_39
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 320
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_42
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 32
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_43
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 32
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_44
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 32
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Buttons Part 3-2048 x 2048_45
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 32
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

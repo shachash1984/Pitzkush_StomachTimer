@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 98a5cd7ec6898f14f897c027ef954234
+timeCreated: 1508397993
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Green Buttons-1024 x 2048_0
+    21300002: Green Buttons-1024 x 2048_1
+    21300004: Green Buttons-1024 x 2048_2
+    21300006: Green Buttons-1024 x 2048_3
+    21300008: Green Buttons-1024 x 2048_4
+    21300010: Green Buttons-1024 x 2048_5
+    21300012: Green Buttons-1024 x 2048_6
+    21300014: Green Buttons-1024 x 2048_7
+    21300016: Green Buttons-1024 x 2048_8
+    21300018: Green Buttons-1024 x 2048_9
+    21300020: Green Buttons-1024 x 2048_10
+    21300022: Green Buttons-1024 x 2048_11
+    21300024: Green Buttons-1024 x 2048_12
+    21300026: Green Buttons-1024 x 2048_13
+    21300028: Green Buttons-1024 x 2048_14
+    21300030: Green Buttons-1024 x 2048_15
+    21300032: Green Buttons-1024 x 2048_16
+    21300034: Green Buttons-1024 x 2048_17
+    21300036: Green Buttons-1024 x 2048_18
+    21300038: Green Buttons-1024 x 2048_19
+    21300040: Green Buttons-1024 x 2048_20
+    21300042: Green Buttons-1024 x 2048_21
+    21300044: Green Buttons-1024 x 2048_22
+    21300046: Green Buttons-1024 x 2048_23
+    21300048: Green Buttons-1024 x 2048_24
+    21300050: Green Buttons-1024 x 2048_25
+    21300052: Green Buttons-1024 x 2048_26
+    21300054: Green Buttons-1024 x 2048_27
+    21300056: Green Buttons-1024 x 2048_28
+    21300058: Green Buttons-1024 x 2048_29
+    21300060: Green Buttons-1024 x 2048_30
+    21300062: Green Buttons-1024 x 2048_31
+    21300064: Green Buttons-1024 x 2048_32
+    21300066: Green Buttons-1024 x 2048_33
+    21300068: Green Buttons-1024 x 2048_34
+    21300070: Green Buttons-1024 x 2048_35
+    21300072: Green Buttons-1024 x 2048_36
+    21300074: Green Buttons-1024 x 2048_37
+    21300076: Green Buttons-1024 x 2048_38
+    21300078: Green Buttons-1024 x 2048_39
+    21300080: Green Buttons-1024 x 2048_40
+    21300082: Green Buttons-1024 x 2048_41
+    21300084: Green Buttons-1024 x 2048_42
+    21300086: Green Buttons-1024 x 2048_43
+    21300088: Green Buttons-1024 x 2048_44
+    21300090: Green Buttons-1024 x 2048_45
+    21300092: Green Buttons-1024 x 2048_46
+    21300094: Green Buttons-1024 x 2048_47
+    21300096: Green Buttons-1024 x 2048_48
+    21300098: Green Buttons-1024 x 2048_49
+    21300100: Green Buttons-1024 x 2048_50
+    21300102: Green Buttons-1024 x 2048_51
+    21300104: Green Buttons-1024 x 2048_52
+    21300106: Green Buttons-1024 x 2048_53
+    21300108: Green Buttons-1024 x 2048_54
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1884
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1884
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1884
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1884
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1884
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1716
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1716
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1716
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1716
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1716
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1548
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1548
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1548
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1548
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1548
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1380
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1380
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1380
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_18
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1380
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_19
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1380
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1212
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1212
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1212
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_23
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1212
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1212
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1044
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1044
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1044
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1044
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_29
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1044
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 876
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 876
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 876
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_33
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 876
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_34
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 876
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 708
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 708
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 708
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_38
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 708
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_42
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 540
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 372
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 204
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 204
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 204
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_50
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 204
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 36
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 36
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Buttons-1024 x 2048_54
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 36
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

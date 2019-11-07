@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 1dedf771045facc46bd562cd854a77f0
+timeCreated: 1508337481
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windows Part-1-2048 x 2048_0
+    21300002: Windows Part-1-2048 x 2048_1
+    21300004: Windows Part-1-2048 x 2048_2
+    21300006: Windows Part-1-2048 x 2048_3
+    21300008: Windows Part-1-2048 x 2048_4
+    21300010: Windows Part-1-2048 x 2048_5
+    21300012: Windows Part-1-2048 x 2048_6
+    21300014: Windows Part-1-2048 x 2048_7
+    21300016: Windows Part-1-2048 x 2048_8
+    21300018: Windows Part-1-2048 x 2048_9
+    21300020: Windows Part-1-2048 x 2048_10
+    21300022: Windows Part-1-2048 x 2048_11
+    21300024: Windows Part-1-2048 x 2048_12
+    21300026: Windows Part-1-2048 x 2048_13
+    21300028: Windows Part-1-2048 x 2048_14
+    21300030: Windows Part-1-2048 x 2048_15
+    21300032: Windows Part-1-2048 x 2048_16
+    21300034: Windows Part-1-2048 x 2048_17
+    21300036: Windows Part-1-2048 x 2048_18
+    21300038: Windows Part-1-2048 x 2048_19
+    21300040: Windows Part-1-2048 x 2048_20
+    21300042: Windows Part-1-2048 x 2048_21
+    21300044: Windows Part-1-2048 x 2048_22
+    21300046: Windows Part-1-2048 x 2048_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1576
+        width: 472
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1576
+        width: 472
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_2
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1576
+        width: 224
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_3
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1576
+        width: 224
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_4
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1580
+        width: 332
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1220
+        width: 348
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1220
+        width: 348
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_7
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1256
+        width: 308
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_8
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1220
+        width: 348
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_9
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1220
+        width: 348
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 740
+        width: 388
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 740
+        width: 389
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_12
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 980
+        width: 332
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_13
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 740
+        width: 388
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 740
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_15
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 752
+        width: 332
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 572
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 56
+        width: 572
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_18
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 595
+        width: 168
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_19
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 584
+        width: 160
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_20
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 460
+        width: 236
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_21
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 452
+        width: 232
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_22
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 271
+        width: 556
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Windows Part-1-2048 x 2048_23
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 56
+        width: 556
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

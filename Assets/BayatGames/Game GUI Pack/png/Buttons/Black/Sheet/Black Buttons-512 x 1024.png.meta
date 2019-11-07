@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 722af7f4ee476d24cb99a59ffb838a3d
+timeCreated: 1508341403
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Black Buttons-512 x 1024_0
+    21300002: Black Buttons-512 x 1024_1
+    21300004: Black Buttons-512 x 1024_2
+    21300006: Black Buttons-512 x 1024_3
+    21300008: Black Buttons-512 x 1024_4
+    21300010: Black Buttons-512 x 1024_5
+    21300012: Black Buttons-512 x 1024_6
+    21300014: Black Buttons-512 x 1024_7
+    21300016: Black Buttons-512 x 1024_8
+    21300018: Black Buttons-512 x 1024_9
+    21300020: Black Buttons-512 x 1024_10
+    21300022: Black Buttons-512 x 1024_11
+    21300024: Black Buttons-512 x 1024_12
+    21300026: Black Buttons-512 x 1024_13
+    21300028: Black Buttons-512 x 1024_14
+    21300030: Black Buttons-512 x 1024_15
+    21300032: Black Buttons-512 x 1024_16
+    21300034: Black Buttons-512 x 1024_17
+    21300036: Black Buttons-512 x 1024_18
+    21300038: Black Buttons-512 x 1024_19
+    21300040: Black Buttons-512 x 1024_20
+    21300042: Black Buttons-512 x 1024_21
+    21300044: Black Buttons-512 x 1024_22
+    21300046: Black Buttons-512 x 1024_23
+    21300048: Black Buttons-512 x 1024_24
+    21300050: Black Buttons-512 x 1024_25
+    21300052: Black Buttons-512 x 1024_26
+    21300054: Black Buttons-512 x 1024_27
+    21300056: Black Buttons-512 x 1024_28
+    21300058: Black Buttons-512 x 1024_29
+    21300060: Black Buttons-512 x 1024_30
+    21300062: Black Buttons-512 x 1024_31
+    21300064: Black Buttons-512 x 1024_32
+    21300066: Black Buttons-512 x 1024_33
+    21300068: Black Buttons-512 x 1024_34
+    21300070: Black Buttons-512 x 1024_35
+    21300072: Black Buttons-512 x 1024_36
+    21300074: Black Buttons-512 x 1024_37
+    21300076: Black Buttons-512 x 1024_38
+    21300078: Black Buttons-512 x 1024_39
+    21300080: Black Buttons-512 x 1024_40
+    21300082: Black Buttons-512 x 1024_41
+    21300084: Black Buttons-512 x 1024_42
+    21300086: Black Buttons-512 x 1024_43
+    21300088: Black Buttons-512 x 1024_44
+    21300090: Black Buttons-512 x 1024_45
+    21300092: Black Buttons-512 x 1024_46
+    21300094: Black Buttons-512 x 1024_47
+    21300096: Black Buttons-512 x 1024_48
+    21300098: Black Buttons-512 x 1024_49
+    21300100: Black Buttons-512 x 1024_50
+    21300102: Black Buttons-512 x 1024_51
+    21300104: Black Buttons-512 x 1024_52
+    21300106: Black Buttons-512 x 1024_53
+    21300108: Black Buttons-512 x 1024_54
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 940
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 942
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 858
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 690
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 690
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 690
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 688
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 690
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 604
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 606
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 522
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 522
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 522
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 522
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 522
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 438
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 438
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 438
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 438
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_34
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 438
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_38
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 354
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 186
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 186
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 186
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 186
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 18
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 18
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Buttons-512 x 1024_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 18
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
